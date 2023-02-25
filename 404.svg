@@ -30,7 +30,7 @@
                     animation: glitch 1s linear infinite;
                 }
 
-                                @keyframes glitch {
+                @keyframes glitch {
                                 2%,
                                 64% {
                                     transform: translate(2px, 0) skew(0deg);

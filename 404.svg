@@ -14,7 +14,7 @@
                     margin: 0;
                     color: #fff;
                     font-size: 96px;
-                    letter-spacing: -7px;
+                    letter-spacing: 1rem;
                 }
 
                 .hero {

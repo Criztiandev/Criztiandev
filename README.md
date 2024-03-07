@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=criztiandev&label=Profile%20views&color=0e75b6&style=flat" alt="criztiandev" /> </p>
 
-- 🔭 I’m currently working on [Fluid-UI](https://github.com/Criztiandev/FLUID-UI), [CodeSyncPh](https://codesync.ph/)
+<span align='center'>
+  ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+</span>
 
-- 🌱 I’m currently learning **MERN, MEVN, PHP and Laravel**
-
+- 🔭 I’m currently working as a Freelancer 
+- 🌱 I’m currently learning **PHP and Laravel**
 - 👨‍💻 All of my projects are available at [https://criztiantuplano.dev/](https://criztiantuplano.dev/)
-
-- 💬 Ask me about **Web development**
-
 - 📫 How to reach me **criztiandev@gmail.com**
 
-- ⚡ Fun fact **I looveeee creating randomg things that solve a world problem, event is weird looking**
-
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 <h3>🍰 Favorite Stack</h3>
 <div>

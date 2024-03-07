@@ -4,14 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=criztiandev&label=Profile%20views&color=0e75b6&style=flat" alt="criztiandev" /> </p>
 
 <span align='center'>
+  
   ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 </span>
-
-- 🔭 I’m currently working as a Freelancer 
-- 🌱 I’m currently learning **PHP and Laravel**
-- 👨‍💻 All of my projects are available at [https://criztiantuplano.dev/](https://criztiantuplano.dev/)
-- 📫 How to reach me **criztiandev@gmail.com**
-
 
 <h3>🍰 Favorite Stack</h3>
 <div>

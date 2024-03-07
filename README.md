@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I looveeee creating randomg things that solve a world problem, event is weird looking**
 
-<h3>Favorite Stack</h3>
+<h3 align="center">Favorite Stack</h3>
 
 <div align="center">
   

@@ -38,6 +38,12 @@
 
 </div>
 
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/criztiandev"><img src="https://github-readme-stats.vercel.app/api?username=criztiandev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="criztiandev's GitHub stats" /></a>
+
+
 <h3>💼 Other Tech Stack</h3>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)

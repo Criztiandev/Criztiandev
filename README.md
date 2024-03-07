@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact **I looveeee creating randomg things that solve a world problem, event is weird looking**
 
-<h3 align="center">Favorite Stack</h3>
+<h3 >Favorite Stack</h3>
 
-<div align="center">
+<div>
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -27,8 +27,8 @@
 </div>
 
 
-<h3 align='center'>Other Technology used</h3>
-<div align='center'>
+<h3>Other Technology used</h3>
+<div>
 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)

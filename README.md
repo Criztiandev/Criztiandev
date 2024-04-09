@@ -21,7 +21,7 @@
 
 
 <h3>⚙ MERN Stack Libraries</h3>
-<div align='left'>
+<div align='center'>
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)

@@ -15,7 +15,7 @@
 
 ###
 
-- 🕴️ I’m currently Freshgrad and looking for opportunities.
+- 🕴️ I’m currently Fresh graduate, looking for a great opportunities.
 - 💬 I'm a `React`, `Next`, `Node`,  &`TypeScript`  Enthusiast.
 - 🚧 I love building unique stuff, managing complex and optimizing applications.
 - 📖 I love learning and always willing to learn.

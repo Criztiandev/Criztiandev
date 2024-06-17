@@ -20,7 +20,7 @@
 - 🚧 I love building unique stuff, managing complex and optimizing applications.
 - 📖 I love learning and always willing to learn.
 - 😎 Coffe lover who always palpitate ☕.
-- 📧 Have an idea for project, Lets buil your idea !, contact me at `criztiandev@gmail.com`
+- 📧 Have an idea for project, Lets build your ideas!, contact me at `criztiandev@gmail.com`
 
 ###
 

@@ -1,4 +1,5 @@
-<h1 align="center">Hi There 👋 Im Criztian</h1>
+<h1 align="center">Hi 👋, I'm Tuplano, Criztian Jade M.</h1>
+<h3 align="center">A passionate software developer from philippines</h3>
 
 ###
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuplano, Criztian Jade M.</h1>
-<h3 align="center">I build Projects with a Heart <3</h3>
+<h3 align="center">" You shouldn't aim to be the one that gets chosen but the one that chooses. "<3</h3>
 
 ###
 

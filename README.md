@@ -135,8 +135,6 @@
   <!-- Filezilla -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"  height="48"  />
 </div>
-###
-
 <h3 align="left">😵 Other Tools</h3>
 <div align="left">
     <!-- Figma -->

@@ -30,12 +30,22 @@
 
 <br clear="both">
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Technologies </h3>
 <div align="left">
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="64" />
   <!-- Rust -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="64"  />
+  <!-- Next -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="64" />
+  <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="64" />
+</div>
+
+<h3 align="left">🛠 Tools </h3>
+<div align="left">
+  <!-- Blender -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="64"  />
 </div>
 
 ###

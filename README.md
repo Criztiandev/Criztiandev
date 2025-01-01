@@ -31,13 +31,8 @@
 <br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="64" />
 </div>
 
 ###

@@ -44,6 +44,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"  height="48"  />
 </div>
 
+<h3 align="left">🎮 Game Development </h3>
+<div align="left">
+  <!-- Godot -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"  height="48"  />
+  <!-- Unity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  height="48"  />
+  <!-- Blender -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="48"  />
+</div>
+
 <h3 align="left">🛠 Technologies </h3>
 <div align="left">
   <!-- HTML5 -->
@@ -125,36 +135,18 @@
   <!-- Filezilla -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"  height="48"  />
 </div>
-
-<h3 align="left">🎮 Game Development </h3>
-<div align="left">
-  <!-- Godot -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"  height="48"  />
-  <!-- Unity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  height="48"  />
-  <!-- Blender -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="48"  />
-</div>
-
 ###
 
-<h3 align="left"> Design & Creative Tools </h3>
+<h3 align="left">😵 Other Tools</h3>
 <div align="left">
-  <!-- Figma -->
+    <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="48"  />
   <!-- Canva -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  height="48"  />
   <!-- Gimp -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"  height="48"  />
-</div>
-
-###
-
-<h3 align="left">😵 Other Tools</h3>
-<div align="left">
    <!-- Markdown -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"  height="48"  />
   <!-- Arduino -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="48" />
 </div>
-###

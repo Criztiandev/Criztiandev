@@ -41,22 +41,14 @@
   <!-- Rust -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="48"  />
   <!-- Solidity -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"  height="48"  />
-</div>
-
-<h3 align="left">🎮 Game Development </h3>
-<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"  height="48"  />
   <!-- Godot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"  height="48"  />
   <!-- Unity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  height="48"  />
   <!-- Blender -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="48"  />
-</div>
-
-<h3 align="left">🛠 Technologies </h3>
-<div align="left">
-  <!-- HTML5 -->
+    <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  height="48"  />
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height="48"  />
@@ -92,10 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"  height="48"  />
   <!-- 0Atuh -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"  height="48"  />
-</div>
-<h3 align="left">🔨 Development Tools </h3>
-<div align="left">
-  <!-- Docker -->
+    <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  height="48"  />
  <!-- NPM -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"  height="48"  />
@@ -119,12 +108,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"  height="48"  />
   <!-- Vite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg"  height="48"  />
-
-</div>
-
-<h3 align="left">📃 Version Control & Project Management </h3>
-<div align="left">
-  <!-- Github -->
+    <!-- Github -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  height="48"  />
   <!-- Source Tree --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg"  height="48"  />
@@ -134,10 +118,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg"  height="48"  />
   <!-- Filezilla -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"  height="48"  />
-</div>
-<h3 align="left">😵 Other Tools</h3>
-<div align="left">
-    <!-- Figma -->
+      <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="48"  />
   <!-- Canva -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  height="48"  />

@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Programming Language </h3>
+<h3 align="left">💻 Programming Language </h3>
 <div align="left">
   <!-- Javascript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="64"  />
@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"  height="64"  />
 </div>
 
-<h3 align="left">🛠 Frontend Development </h3>
+<h3 align="left">🛠 Technologies </h3>
 <div align="left">
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  height="64"  />
@@ -66,11 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="64"  height="64"  />
   <!-- Next -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="64"  height="64"  />
-</div>
-
-<h3 align="left">🛠 Backend & Databases </h3>
-<div align="left">
-  <!-- Nodejs -->
+   <!-- Nodejs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  height="64"  />
   <!-- Prismia -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"  height="64"  />
@@ -87,8 +83,7 @@
   <!-- 0Atuh -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"  height="64"  />
 </div>
-
-<h3 align="left">🛠 Development Tools </h3>
+<h3 align="left">🔨 Development Tools </h3>
 <div align="left">
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  height="64"  />
@@ -117,7 +112,7 @@
 
 </div>
 
-<h3 align="left">🛠 Version Control & Project Management </h3>
+<h3 align="left">📃 Version Control & Project Management </h3>
 <div align="left">
   <!-- Github -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  height="64"  />
@@ -131,7 +126,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"  height="64"  />
 </div>
 
-<h3 align="left">🛠 Game Development </h3>
+<h3 align="left">🎮 Game Development </h3>
 <div align="left">
   <!-- Godot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"  height="64"  />
@@ -141,7 +136,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="64"  />
 </div>
 
-<h3 align="left">🛠   Design & Creative Tools </h3>
+###
+
+<h3 align="left"> Design & Creative Tools </h3>
 <div align="left">
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="64"  />
@@ -151,7 +148,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"  height="64"  />
 </div>
 
-<h3 align="left">🛠 Other Tools</h3>
+###
+
+<h3 align="left">😵 Other Tools</h3>
 <div align="left">
    <!-- Markdown -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"  height="64"  />

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuplano, Criztian Jade M.</h1>
-<h3 align="center">A passionate software developer from philippines</h3>
+<h3 align="center">I build Games, Mobile, web2 and Web3 Projects with a Heart</h3>
 
 ###
 

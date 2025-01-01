@@ -32,7 +32,10 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="64" />
+  <!-- Rust -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="64"  />
 </div>
 
 ###

@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">💻 Programming Language </h3>
+<h3 align="left">💻 My Current Skill Set </h3>
 <div align="left">
   <!-- Javascript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48"  />

@@ -16,12 +16,15 @@
 
 ###
 
-- 🕴️ I’m currently Fresh graduate, looking for a great opportunities.
-- 💬 I'm a `React`, `Next`, `Node`,  &`TypeScript`  Enthusiast.
-- 🚧 I love building unique stuff, managing complex and optimizing applications.
-- 📖 I love learning and always willing to learn.
-- 😎 Coffe lover who always palpitate ☕.
-- 📧 Have an idea for project, Lets build your ideas!, contact me at `criztiandev@gmail.com`
+- 🥇 Won multiple Arweave hackathons, specializing in decentralized solutions
+
+- 💻 Professional Full Stack Developer specializing in MERN stack
+- 🛠️ Love building scalable applications and optimizing complex systems
+- 🚀 Successfully delivered complex full-stack applications
+- 💡 Contributed to open-source projects in the Web2 & Web3 space
+
+- ☕ Coffee enthusiast who codes better with caffeine
+- 📧 Open for collaboration! Reach me at: criztiandev@gmail.com
 
 ###
 

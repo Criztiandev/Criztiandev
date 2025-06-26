@@ -17,6 +17,7 @@
 ###
 
 - 🥇 Won multiple Arweave hackathons, specializing in decentralized solutions
+- 🥇 Won multiple Web2 hacktons, epsciallizing ai and modern tehcnologies
 
 - 💻 Professional Full Stack Developer specializing in MERN stack
 - 🛠️ Love building scalable applications and optimizing complex systems

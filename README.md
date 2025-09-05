@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuplano, Criztian Jade M.</h1>
-<h3 align="center">" You shouldn't aim to be the one that gets chosen but the one that chooses. "<3</h3>
+<h3 align="center">"Im a lazy person who find the quickest and efficient way to get something done so I could have a lot of free time"<3</h3>
 
 ###
 

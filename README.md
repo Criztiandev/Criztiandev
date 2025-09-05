@@ -16,15 +16,15 @@
 
 ###
 
-- 🥇 Won multiple Arweave hackathons, specializing in decentralized solutions
-- 🥇 Won multiple Web2 hacktons, epsciallizing ai and modern tehcnologies
+- 🥇 Competed in hackathons like Bolt.new, building fun Web2 projects with AI/ML
+- 🥇 Won multiple Web2/Web3 hacktons, epsciallizing AI and modern tehcnologies
 
-- 💻 Professional Full Stack Developer specializing in MERN stack
-- 🛠️ Love building scalable applications and optimizing complex systems
-- 🚀 Successfully delivered complex full-stack applications
+- 💻 Software engineer with years specializing MERN Stack, NextJS with Supabase and Laravel
+- 🛠️ Love crafting web, mobile, and desktop apps that are user-friendly and efficient
+- 🧠 Certified AWS Practitioner, using AI (like Claude) to code smarter and faster
 - 💡 Contributed to open-source projects in the Web2 & Web3 space
 
-- ☕ Coffee enthusiast who codes better with caffeine
+- ☕ Coffee-fueled coder who finds the laziest way to ship great apps
 - 📧 Open for collaboration! Reach me at: criztiandev@gmail.com
 
 ###

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuplano, Criztian Jade M.</h1>
-<h3 align="center">"Kindness start with you na may kunting illegal"<3</h3>
+<h3 align="center">"The best way to predict the future is to create it"<3</h3>
 
 ###
 
